@@ -2,20 +2,6 @@
 <img src="https://cdn.rawgit.com/RobinCK/vue-gallery/a08dae25/doc/gallery.png">
 </p>
 
-<p align="center">
-  <a href="https://opencollective.com/vue-gallery" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/vue-gallery/all/badge.svg?label=financial+contributors" /></a>
-  <a href="https://github.com/RobinCK/vue-gallery"><img src="https://img.shields.io/badge/vuejs-2.x-brightgreen.svg?style=flat-square"></a>
-  <a href="https://www.npmjs.com/package/vue-gallery"><img src="https://img.shields.io/npm/dt/vue-gallery.svg?style=flat-square"></a>
-</p>  
-  
-<p align="center">
-  <a href="https://david-dm.org/RobinCK/vue-gallery"><img src="https://david-dm.org/RobinCK/vue-gallery.svg?style=flat-square"></a>
-  <a href="https://david-dm.org/RobinCK/vue-gallery?type=dev"><img src="https://david-dm.org/RobinCK/vue-gallery/dev-status.svg?style=flat-square"></a>
-  <a href="https://github.com/RobinCK/vue-gallery"><img src="https://img.shields.io/npm/v/vue-gallery.svg?style=flat-square"></a>
-  <a href="https://github.com/RobinCK/vue-gallery/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/vue-gallery.svg?style=flat-square"></a>
-
-</p>
-
 # vue-gallery
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/RobinCK/vue-gallery.svg)](https://greenkeeper.io/)
@@ -35,14 +21,9 @@ Recommended: https://unpkg.com/vue-gallery, which will reflect the latest versio
 #### NPM
 
 ``` bash
-npm install vue-gallery --save
+npm install jackmartin-vue-gallery --save
 ```
 
-#### Yarn
-
-``` bash
-yarn add vue-gallery
-```
 ## Development Setup
 
 ``` bash
