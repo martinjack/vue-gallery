@@ -108,11 +108,15 @@ npm run build
 ### Browser (ES5)
 ```html
   <script type="text/javascript" src="https://unpkg.com/vue@2.4.3/dist/vue.js"></script>
-  <script type="text/javascript" src="https://unpkg.com/blueimp-gallery@2.27.0/js/blueimp-helper.js"></script>
-  <script type="text/javascript" src="https://unpkg.com/blueimp-gallery@2.27.0/js/blueimp-gallery.js"></script>
-  <script type="text/javascript" src="https://unpkg.com/blueimp-gallery@2.27.0/js/blueimp-gallery-fullscreen.js"></script>
-  <script type="text/javascript" src="vue-gallery.js"></script>
-  <link rel="stylesheet" type="text/css" href="https://unpkg.com/blueimp-gallery@2.27.0/css/blueimp-gallery.min.css">
+  <script type="text/javascript" src="https://unpkg.com/vue@2.4.3/dist/vue.js"></script>
+  <script type="text/javascript"
+    src="https://unpkg.com/jackmartin-blueimp-gallery@2.36.2/js/blueimp-helper.js"></script>
+  <script type="text/javascript"
+    src="https://unpkg.com/jackmartin-blueimp-gallery@2.36.2/js/blueimp-gallery.js"></script>
+  <script type="text/javascript"
+    src="https://unpkg.com/jackmartin-blueimp-gallery@2.36.2/js/blueimp-gallery-fullscreen.js"></script>
+  <link rel="stylesheet" type="text/css"
+    href="https://unpkg.com/jackmartin-blueimp-gallery@2.36.2/css/blueimp-gallery.min.css">
   
 
 <div id="app">
@@ -153,7 +157,7 @@ npm run build
 | --------------------|:----------| ------------------------------------------------|--------------|
 | images              | Array     | []                                              | Urls list  |
 | index               | Number    | null                                            | Opened image index  |
-| options             | Object    |                                                 | [blueimp-gallery](https://github.com/blueimp/Gallery) options |
+| options             | Object    |                                                 | [blueimp-gallery](https://github.com/martinjack/Gallery) options |
 
 
 

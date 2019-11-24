@@ -1,6 +1,6 @@
 {
-  "name": "vue-gallery",
-  "version": "2.0.1",
+  "name": "jackmartin-vue-gallery",
+  "version": "2.0.2",
   "description": "VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.",
   "main": "dist/js/vue-gallery.js",
   "jsnext:main": "src/index.js",
@@ -16,14 +16,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobinCK/vue-gallery.git"
+    "url": "git+https://github.com/martinjack/vue-gallery.git"
   },
   "author": "Igor Ognichenko <ognichenko.igor@gmail.com>",
+  "contributors": [
+    {
+      "name": "Evgen Kytonin",
+      "email": "killfess@gmail.com",
+      "url": "https://github.com/martinjack"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RobinCK/vue-gallery/issues"
   },
-  "homepage": "https://github.com/RobinCK/vue-gallery#readme",
+  "homepage": "https://github.com/martinjack/vue-gallery",
   "keywords": [
     "vue-gallery",
     "vuejs-gallery",
@@ -40,7 +47,7 @@
     "vue-component"
   ],
   "dependencies": {
-    "blueimp-gallery": "^2.33.0",
+    "jackmartin-blueimp-gallery": "^2.36.2",
     "opencollective-postinstall": "^2.0.2"
   },
   "devDependencies": {
