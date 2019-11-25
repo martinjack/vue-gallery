@@ -2,7 +2,9 @@
 <img src="https://cdn.rawgit.com/RobinCK/vue-gallery/a08dae25/doc/gallery.png">
 </p>
 
-# vue-gallery
+# Vue-Gallery
+
+[![npm version](https://badge.fury.io/js/jackmartin-vue-gallery.svg)](https://badge.fury.io/js/jackmartin-vue-gallery)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/RobinCK/vue-gallery.svg)](https://greenkeeper.io/)
 :camera: VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.
@@ -16,7 +18,7 @@
 ## Install
 #### CDN
 
-Recommended: https://unpkg.com/vue-gallery, which will reflect the latest version as soon as it is published to npm. You can also browse the source of the npm package at https://unpkg.com/vue-gallery/
+Recommended: https://unpkg.com/jackmartin-vue-gallery, which will reflect the latest version as soon as it is published to npm. You can also browse the source of the npm package at https://unpkg.com/jackmartin-vue-gallery/
 
 #### NPM
 
